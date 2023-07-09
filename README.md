@@ -1,5 +1,5 @@
 # Image-Scrapping-
-In this project I have used Image Scrapping. I have created an API through Python Flask in  which we search for images and the API extracts all those images from google and displays it in result webpage
+In this project I have used Image Scrapping. I have created an API through Python Flask in  which we search for images and the API extracts all those images from google and displays it in result webpage and it also creates an images directory and store all the images in that directory.
 
 ## Requirements
 
